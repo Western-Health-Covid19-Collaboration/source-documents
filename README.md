@@ -20,3 +20,9 @@ https://youtu.be/jZyR0S8FKIY
 
 *Doffing*
 https://youtu.be/vwIoSycWQ9M
+
+*PPE in deteriorating patient*
+https://www.youtube.com/watch?v=oM-06P0iqtk&feature=youtu.be
+
+*WH ICU prone positioning*
+https://youtu.be/YFrA1cCuDnY
