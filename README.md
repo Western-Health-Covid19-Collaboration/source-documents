@@ -4,7 +4,18 @@ Source documents for the info in our app.  All content is publicly accessable an
 
 # Links:
 
-Here is a good source for some of the original (PDFs etc.) 
+Here are the two main source sites of the cognitive aids/infographics are:
+Safe Airway Society
+https://asa.org.au/wordpress/wp-content/uploads/SAS-Covid-19-Infographics.pdf
+Royal North Shore
+https://www.rnsascar.com/covid-19
+
+We have full approval from both of the above institutions to use their source documents under the condition the logo is visible at some point and that they are referenced in acknowledgements.The above sites can hopefully help with design in terms of source sizes and aspect ratios.
+
+For the "donning" and "doffing" infographics, the docuemnt with highest quality images is in source docuements and titled
+COVID_19 PPE Sequence Donning and Doffing QRG_26.03.2020.docx
+
+Here is a good source for some of the other original (PDFs etc.) 
 https://whcovid19.wixsite.com/covid19
 
 Here is the link for our Western Health COVID19 command centre...
